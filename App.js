@@ -32,7 +32,7 @@ export default function App() {
     let {status} = await Location.requestPermissionsAsync();
     const locat = await Location.getCurrentPositionAsync({});
     console.log(locat)
-    fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${locat.coords.latitude}&lon=${locat.coords.longitude}&appid=3638a082a594a98c0f29f5e269dd35af`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${locat.coords.latitude}&lon=${locat.coords.longitude}&appid=API KEY HERE`)
       .then(setLoad(0))
       .then((data) => data.json())
       .then((res) => {
@@ -43,7 +43,7 @@ export default function App() {
         setName(res.weather[0].main)
         setIcon(src.vector[res.weather[0].main])
         setVector(src.icons[res.weather[0].main])
-        fetch(`http://api.openweathermap.org/data/2.5/forecast?q=${res.name}&appid=3638a082a594a98c0f29f5e269dd35af`).then(data => data.json())
+        fetch(`http://api.openweathermap.org/data/2.5/forecast?q=${res.name}&appid=API KEY HERE`).then(data => data.json())
         .then(dat => {
           let ros = []
           let i;
@@ -81,7 +81,7 @@ export default function App() {
   const call = (inp) => {
     setText('')
     Keyboard.dismiss()
-    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${inp}&appid=3638a082a594a98c0f29f5e269dd35af`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${inp}&appid=API KEY HERE`)
       .then(setLoad(0))
       .then((data) => data.json())
       .then((res) => {
@@ -92,7 +92,7 @@ export default function App() {
         setName(res.weather[0].main)
         setIcon(src.vector[res.weather[0].main])
         setVector(src.icons[res.weather[0].main])
-        fetch(`http://api.openweathermap.org/data/2.5/forecast?q=${res.name}&appid=3638a082a594a98c0f29f5e269dd35af`).then(data => data.json())
+        fetch(`http://api.openweathermap.org/data/2.5/forecast?q=${res.name}&appid=API KEY HERE`).then(data => data.json())
         .then(dat => {
           let ros = []
           let i;
