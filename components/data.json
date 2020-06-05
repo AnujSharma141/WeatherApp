@@ -1,0 +1,27 @@
+[{"vector":{
+    "Rain": "https://i.ibb.co/VTSJ86x/undraw-raining-sguh.png",
+    "Thunderstorm": "https://i.ibb.co/VTSJ86x/undraw-raining-sguh.png",
+    "Drizzle": "https://i.ibb.co/VTSJ86x/undraw-raining-sguh.png",
+    "Clouds": "https://i.ibb.co/g6yvLx5/undraw-Lighthouse-frb8.png",
+    "Fog": "https://i.ibb.co/g6yvLx5/undraw-Lighthouse-frb8.png",
+    "Smoke": "https://i.ibb.co/QnX22JQ/undraw-back-home-nl5c.png",
+    "Clear": "https://i.ibb.co/MSz7wpv/undraw-sunny-day-bk3m.png",
+    "Haze": "https://i.ibb.co/QnX22JQ/undraw-back-home-nl5c.png",
+    "Mist": "https://i.ibb.co/QnX22JQ/undraw-back-home-nl5c.png",
+    "Dust": "https://i.ibb.co/bgY2kK0/undraw-Through-the-desert-rqtu.png",
+    "error":"https://i.ibb.co/VmG2CKB/undraw-cancel-u1it.png"
+  },
+  "icons":{
+    "Rain": "weather-pouring",
+    "Thunderstorm": "weather-lightning-rainy",
+    "Drizzle": "weather-drizzle",
+    "Clouds": "weather-cloudy",
+    "Fog": "weather-fog",
+    "Smoke": "weather-fog",
+    "Clear": "weather-sunny",
+    "Haze": "weather-hazy",
+    "Mist": "weather-fog",
+    "Dust": "weather-windy"
+  },
+  "date":["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+  }]
