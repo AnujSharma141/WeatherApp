@@ -14,6 +14,12 @@ cd Tuna
 npm install
 expo start
 ```
+## Preview
+ 
+ You can preview the appication using EXPO mobile app by scanning a QR Code in the given link.
+ 
+ https://expo.io/@anujsharma141/Tuna
+
 
 ## Requirements
 
@@ -22,6 +28,7 @@ expo start
 2. npm v6.14.4 or higher
  
 3. expo-cli v3.4.0 or higher installed (npm i expo-cli -g )
+
 
 ## Source
 
