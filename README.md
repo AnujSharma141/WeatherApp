@@ -1,6 +1,6 @@
 # Tuna
 
-![alt text](https://i.ibb.co/zxQ9ZBd/Untitled-2-Recovered.png)
+![alt text](https://i.ibb.co/vLYy0QF/Untitled-1.png)
 
 Tuna is a Minimal Weather App. It is a cross platform mobile application created with [REACT NATIVE](https://reactnative.dev/) and [EXPO](https://expo.io/).
 
