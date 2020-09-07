@@ -1,10 +1,10 @@
 # Tuna
 
-Tuna is a Minimal Weather App.
+Mobile Weather App.
+
+Created with [REACT NATIVE](https://reactnative.dev/).
 
 ![alt text](https://i.ibb.co/0FQDXBt/Untitled-1.png)
-
- It is a cross platform mobile application created with [REACT NATIVE](https://reactnative.dev/) and [EXPO](https://expo.io/).
 
 ## Development
 
@@ -17,21 +17,18 @@ npm install
 expo start
 ```
 ## Preview
- 
- You can preview the appication using EXPO mobile app by scanning a QR Code in the given link.
- 
- https://expo.io/@anujsharma141/Tuna
+
+* Expo Build : https://expo.io/@anujsharma141/Tuna
+* Apk Build : https://tunamobile.netlify.app/
 
 
-## Requirements
+## Technologies Used 
 
-1. Node v10.19.0 or higher 
-
-2. npm v6.14.4 or higher
- 
-3. expo-cli v3.4.0 or higher installed (npm i expo-cli -g )
+* React Native (Mobile Application Framework)
+* Expo CLI (Build Framework)
 
 
-## Source
+## Resource
 
-Tuna is built using [Open Weather Map API](https://openweathermap.org/). Create an account and obtain API Key to access the usage. 
+* [Open Weather Map API](https://openweathermap.org/).
+* [Undraw Illustrations](https://undraw.co/)
