@@ -1,4 +1,4 @@
-# Tuna
+# Weather App
 
 Mobile Weather App.
 
@@ -11,8 +11,8 @@ Created with [REACT NATIVE](https://reactnative.dev/).
 Run the following commands in terminal to run on your local machine.
 
 ```bash 
-git clone https://github.com/AnujSharma141/Tuna.git
-cd Tuna
+git clone https://github.com/AnujSharma141/WeatherApp.git
+cd WeatherApp
 npm install
 expo start
 ```
