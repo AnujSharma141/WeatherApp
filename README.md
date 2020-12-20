@@ -4,7 +4,7 @@ Mobile Weather App.
 
 Created with [REACT NATIVE](https://reactnative.dev/).
 
-![alt text](https://i.ibb.co/0FQDXBt/Untitled-1.png)
+![alt text](https://i.ibb.co/vPWFZNL/68747470733a2f2f692e6962622e636f2f304651445842742f556e7469746c65642d312e706e67.png)
 
 ## Development
 
